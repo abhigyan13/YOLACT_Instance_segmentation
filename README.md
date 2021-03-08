@@ -11,8 +11,14 @@ https://drive.google.com/drive/folders/1ur6EsfH_5ZUQxZgT5Qn3ULPfnQqJc_pj?usp=sha
 Drive Link for trained weights :- 
 https://drive.google.com/drive/folders/12hglkT6aRq7KG48zgTY0tXmr6XsKegvk?usp=sharing
 
-NETWORK STRUCTURE :-
+# NETWORK STRUCTURE 
+
 ![pic](https://user-images.githubusercontent.com/61914611/108886416-f2dbdb00-762e-11eb-93e6-0fea1adc6ace.png)
+
+# RESULT
+
+![Screenshot (30)](https://user-images.githubusercontent.com/61914611/110393789-2ab43b00-8091-11eb-95bf-fd4721ac971f.png)
+
 
 
 
